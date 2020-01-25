@@ -46,6 +46,42 @@ print(ordered_key)
 for i in ordered_key:
     print(i + " - " + fruit[i])
 
+for f in sorted(fruit.keys()):
+    print(f + " -- -- " + fruit[f])
+
+for val in fruit.values():
+    print(val)
+
+print("-------------------------------")
+#
+# fruit_keys = fruit.keys()
+# print(fruit.keys())
+#
+#
+# fruit["tomato"] = "Not nice with ice cream"
+# print(fruit_keys)
+# print(fruit.values())
+
+print(fruit)
+print(fruit.items())
+
+f_tuple = tuple(fruit.items())
+print(f_tuple)
+
+for snack in f_tuple:
+    item, description = snack
+    print(item + " is " + description)
+
+print(dict(f_tuple))
+
+
+
+
+
+
+
+
+
 
 
 
