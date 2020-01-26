@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33846515-ce8c-42bc-a1ad-41a432881cc0" name="Default Changelist" comment="" />
+    <list default="true" id="33846515-ce8c-42bc-a1ad-41a432881cc0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruit.py" beforeDir="false" afterPath="$PROJECT_DIR$/fruit.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +41,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
-  <component name="RunManager" selected="Python.new_challenge">
+  <component name="RunManager" selected="Python.game">
     <configuration name="cavegame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Dictionaries_Sets" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fruit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Dictionaries_Sets" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,7 +75,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionaries.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fruit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Dictionaries_Sets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,27 +118,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/join.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="motorbike" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Dictionaries_Sets" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/motorbike.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.game" />
+        <item itemvalue="Python.fruit" />
         <item itemvalue="Python.new_challenge" />
         <item itemvalue="Python.cavegame" />
         <item itemvalue="Python.join" />
-        <item itemvalue="Python.dictionaries" />
-        <item itemvalue="Python.motorbike" />
       </list>
     </recent_temporary>
   </component>
@@ -168,21 +171,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="637" height="277" key="GridCell.Tab.0.bottom" timestamp="1579955188041">
+    <state width="707" height="277" key="GridCell.Tab.0.bottom" timestamp="1580081906029">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="637" height="277" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1579955188041" />
-    <state width="637" height="277" key="GridCell.Tab.0.center" timestamp="1579955188041">
+    <state width="707" height="277" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1580081906029" />
+    <state width="707" height="277" key="GridCell.Tab.0.center" timestamp="1580081906029">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="637" height="277" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1579955188041" />
-    <state width="637" height="277" key="GridCell.Tab.0.left" timestamp="1579955188041">
+    <state width="707" height="277" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1580081906029" />
+    <state width="707" height="277" key="GridCell.Tab.0.left" timestamp="1580081906028">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="637" height="277" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1579955188041" />
-    <state width="637" height="277" key="GridCell.Tab.0.right" timestamp="1579955188041">
+    <state width="707" height="277" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1580081906028" />
+    <state width="707" height="277" key="GridCell.Tab.0.right" timestamp="1580081906029">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="637" height="277" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1579955188041" />
+    <state width="707" height="277" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1580081906029" />
   </component>
 </project>
